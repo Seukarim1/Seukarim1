@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Seukarim1
+- 👀 I’m interested in mathematicle modeling and GPU coding of particle packing.
+- 🌱 I’m currently learning particle packing on the bases of GPU coding.
+- 💞️ I’m looking to collaborate on particle packing and mathematical modeling
+- 📫 you can reach me at "ukarim333@gmail.com"
