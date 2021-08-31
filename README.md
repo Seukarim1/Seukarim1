@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seukarim1
+- 👋 Hi, I’m Karim.
 - 👀 I’m interested in mathematical modeling and GPU coding of particle packing.
 - 🌱 I’m currently learning particle packing on the bases of GPU coding.
 - 💞️ I’m looking to collaborate on particle packing and mathematical modeling
